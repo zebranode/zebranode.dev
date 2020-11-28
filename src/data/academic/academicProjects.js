@@ -1,6 +1,6 @@
 const academicProjects = [
   {
-    liveURL: "https://ocp-workout-tracker.herokuapp.com/",
+    liveURL: "https://znode-workout-tracker.herokuapp.com/",
     githubURL: "https://github.com/zebranode/17-workout-tracker",
     screenshotURL: "18-workout-screenshot.gif",
     title: "PWA Workout Tracker",
@@ -28,21 +28,21 @@ const academicProjects = [
   //   text: "HTML, CSS, Javascript, Bootstrap, jQuery"
   // },
   {
-    liveURL: "https://ocp-weather-dash.netlify.app",
+    liveURL: "https://znode-weather-dash.netlify.app",
     githubURL: "https://github.com/zebranode/06-weather-dashboard",
     screenshotURL: "06-weather-dashboard.png",
     title: "Weather Dashboard",
     text: "HTML, CSS, Javascript, Bootstrap, jQuery "
   },
   {
-    liveURL: "https://ocp-day-planner.netlify.app",
+    liveURL: "https://znode-day-planner.netlify.app",
     githubURL: "https://github.com/zebranode/05-day-planner",
     screenshotURL: "05-day-planner-screenshot.png",
     title: "Day Planner",
     text: "HTML, CSS, Javascript, jQuery"
   },
   {
-    liveURL: "https://ocp-code-quiz.netlify.app",
+    liveURL: "https://znode-code-quiz.netlify.app",
     githubURL: "https://github.com/zebranode/04-code-quiz",
     screenshotURL: "04-code-quiz-screenshot.png",
     title: "Code Quiz",

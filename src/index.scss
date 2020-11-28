@@ -1,0 +1,81 @@
+//css reset
+// @import-normalize;
+
+//global sass
+// $base-color: #0078ff;
+
+//custom styles
+.work-img{
+  height:200px;
+}
+.repo-link {
+  color:#007bff !important;
+}
+#call-to-action{
+  font-size: .75em;
+  border: 1px solid white !important;
+  padding: .5em;
+  color:white;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+}
+#call-to-action:hover{
+  font-size: .75em;
+  border: 1px solid black !important;
+  padding: .5em;
+  color:black;
+  background-color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  transition: all ease .35s;
+}
+.copyright-box {
+  font-size: .75em;
+}
+.copyright-box a{
+  color:white;
+}
+.copyright-box a:hover{
+  color:rgba(255, 255, 255, 0.5);
+}
+.contact-box {
+  max-width: 800px;
+}
+.center {
+  margin: 0 auto !important;
+}
+.icon {
+  width:1em;
+  height:auto;
+  margin:0em .5em 0em 0em;
+  position: relative;
+  top: -1.25px;
+  -webkit-transform: scale(1) !important;
+}
+.repo-link {
+  position: relative;
+  top: 7px;
+}
+.about-skills {
+  margin-top:1em;
+}
+.about-skills a {
+  margin-right:1em;
+  display: inline-block;
+}
+.about-links a {
+  margin-right:1em;
+}
+#about svg {
+  position:relative;
+  bottom:18px;
+  margin-right:5px; 
+  margin-top:1.5em !important;
+}
+h5{
+  font-size: 1em !important;
+}
+@media (max-width: 1024px) {
+  .front-end, .frameworks, .back-end, .deployment {
+    display:inline;
+  }
+}

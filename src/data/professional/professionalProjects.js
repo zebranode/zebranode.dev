@@ -27,7 +27,7 @@ const professionalProjects = [
     text: "Bandzoogle CMS, HTML, CSS"
   },
   {
-    liveURL: "https://https://mdview.zebranode.dev/",
+    liveURL: "https://mdview.zebranode.dev/",
     githubURL: "https://github.com/zebranode/md-view",
     screenshotURL: "md-view-sc-640-opt2.gif",
     title: "md-view",

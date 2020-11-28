@@ -27,10 +27,10 @@ const professionalProjects = [
     text: "Bandzoogle CMS, HTML, CSS"
   },
   {
-    liveURL: "https://mdview.app",
+    liveURL: "https://https://mdview.zebranode.dev/",
     githubURL: "https://github.com/zebranode/md-view",
     screenshotURL: "md-view-sc-640-opt2.gif",
-    title: "mdview.app",
+    title: "md-view",
     text: "Netlify, Lambda, Node.js, Handlebars, Axios"
   },
   {
